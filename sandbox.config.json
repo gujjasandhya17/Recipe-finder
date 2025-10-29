@@ -1,0 +1,10 @@
+{
+  "template": "node",
+  "container": {
+    "node": "20",
+    "port": 5173
+  },
+  "scripts": {
+    "start": "npm install && npm run dev"
+  }
+}
