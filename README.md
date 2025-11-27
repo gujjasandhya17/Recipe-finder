@@ -7,7 +7,7 @@ Powered by [TheMealDB API](https://www.themealdb.com/).
 [Click here to view](https://8nwx9s-5173.csb.app/)
 
 ## 🛠️ Tech Stack
-- React (Vite)
+- React (Vite)  
 - Tailwind CSS
 - Framer Motion
 - TheMealDB API
