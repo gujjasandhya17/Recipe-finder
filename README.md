@@ -1,6 +1,6 @@
 # 🍳 Recipe Ideas Finder
 
-A React + Tailwind CSS app that helps users find recipes based on available ingredients.  
+A React + Tailwind CSS app that helps users find recipes based on available ingredients.
 Powered by [TheMealDB API](https://www.themealdb.com/).
 
 ## 🚀 Live Demo
