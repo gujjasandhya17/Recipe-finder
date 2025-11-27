@@ -3,7 +3,7 @@
 A React + Tailwind CSS app that helps users find recipes based on available ingredients.
 Powered by [TheMealDB API](https://www.themealdb.com/).
 
-## 🚀 Live Demo
+## 🚀 Live Demo 
 [Click here to view](https://8nwx9s-5173.csb.app/)
 
 ## 🛠️ Tech Stack
